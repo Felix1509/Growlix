@@ -1,0 +1,16 @@
+E:\Projekte\Growlix\Growlix\DataBaseMigrations\bin\Debug\net8.0\DataBaseMigrations.deps.json
+E:\Projekte\Growlix\Growlix\DataBaseMigrations\bin\Debug\net8.0\DataBaseMigrations.dll
+E:\Projekte\Growlix\Growlix\DataBaseMigrations\bin\Debug\net8.0\DataBaseMigrations.pdb
+E:\Projekte\Growlix\Growlix\DataBaseMigrations\bin\Debug\net8.0\Entities.dll
+E:\Projekte\Growlix\Growlix\DataBaseMigrations\bin\Debug\net8.0\Entities.pdb
+E:\Projekte\Growlix\Growlix\DataBaseMigrations\obj\Debug\net8.0\DataBaseMigrations.csproj.AssemblyReference.cache
+E:\Projekte\Growlix\Growlix\DataBaseMigrations\obj\Debug\net8.0\DataBaseMigrations.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projekte\Growlix\Growlix\DataBaseMigrations\obj\Debug\net8.0\DataBaseMigrations.AssemblyInfoInputs.cache
+E:\Projekte\Growlix\Growlix\DataBaseMigrations\obj\Debug\net8.0\DataBaseMigrations.AssemblyInfo.cs
+E:\Projekte\Growlix\Growlix\DataBaseMigrations\obj\Debug\net8.0\DataBaseMigrations.csproj.CoreCompileInputs.cache
+E:\Projekte\Growlix\Growlix\DataBaseMigrations\obj\Debug\net8.0\DataBaseMigrations.csproj.CopyComplete
+E:\Projekte\Growlix\Growlix\DataBaseMigrations\obj\Debug\net8.0\DataBaseMigrations.dll
+E:\Projekte\Growlix\Growlix\DataBaseMigrations\obj\Debug\net8.0\refint\DataBaseMigrations.dll
+E:\Projekte\Growlix\Growlix\DataBaseMigrations\obj\Debug\net8.0\DataBaseMigrations.pdb
+E:\Projekte\Growlix\Growlix\DataBaseMigrations\obj\Debug\net8.0\ref\DataBaseMigrations.dll
+E:\Projekte\Growlix\Growlix\DataBaseMigrations\bin\Debug\net8.0\SQL\SpendingScript.sql

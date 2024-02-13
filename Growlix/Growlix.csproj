@@ -1,0 +1,34 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="FluentMigrator" Version="5.0.0" />
+    <PackageReference Include="FluentMigrator.Extensions.MySql" Version="5.0.0" />
+    <PackageReference Include="FluentMigrator.Runner" Version="5.0.0" />
+    <PackageReference Include="FluentMigrator.Runner.MySql" Version="5.0.0" />
+    <PackageReference Include="FluentNHibernate" Version="3.3.0" />
+    <PackageReference Include="Microsoft.Data.SqlClient" Version="5.1.5" />
+    <PackageReference Include="MySql.Data" Version="8.3.0" />
+    <PackageReference Include="NHibernate" Version="5.5.0" />
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.6" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DataBaseMigrations\DataBaseMigrations.csproj" />
+    <ProjectReference Include="..\Entities\Entities.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="WinNewSpending.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+
+</Project>

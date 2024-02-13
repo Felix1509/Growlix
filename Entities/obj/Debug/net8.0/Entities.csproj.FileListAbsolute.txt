@@ -1,0 +1,12 @@
+E:\Projekte\Growlix\Growlix\Entities\bin\Debug\net8.0\Entities.deps.json
+E:\Projekte\Growlix\Growlix\Entities\bin\Debug\net8.0\Entities.dll
+E:\Projekte\Growlix\Growlix\Entities\bin\Debug\net8.0\Entities.pdb
+E:\Projekte\Growlix\Growlix\Entities\obj\Debug\net8.0\Entities.csproj.AssemblyReference.cache
+E:\Projekte\Growlix\Growlix\Entities\obj\Debug\net8.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projekte\Growlix\Growlix\Entities\obj\Debug\net8.0\Entities.AssemblyInfoInputs.cache
+E:\Projekte\Growlix\Growlix\Entities\obj\Debug\net8.0\Entities.AssemblyInfo.cs
+E:\Projekte\Growlix\Growlix\Entities\obj\Debug\net8.0\Entities.csproj.CoreCompileInputs.cache
+E:\Projekte\Growlix\Growlix\Entities\obj\Debug\net8.0\Entities.dll
+E:\Projekte\Growlix\Growlix\Entities\obj\Debug\net8.0\refint\Entities.dll
+E:\Projekte\Growlix\Growlix\Entities\obj\Debug\net8.0\Entities.pdb
+E:\Projekte\Growlix\Growlix\Entities\obj\Debug\net8.0\ref\Entities.dll
